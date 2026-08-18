@@ -1,4 +1,4 @@
-# geolite.090124.xyz
+# ffha.github.io/geolite-mirror
 
 A MaxMind GeoLite Mirror.
 
@@ -11,28 +11,28 @@ This repository includes [GeoLite2](https://dev.maxmind.com/geoip/geoip2/geolite
 ## Download
 
 ``` plain
-https://geolite.090124.xyz/version
+https://ffha.github.io/geolite-mirror/version
 ```
 
 ``` plain
-https://geolite.090124.xyz/GeoLite2-Country.tar.gz
+https://ffha.github.io/geolite-mirror/GeoLite2-Country.tar.gz
 ```
 
 ``` plain
-https://geolite.090124.xyz/Country.mmdb
+https://ffha.github.io/geolite-mirror/Country.mmdb
 ```
 ``` plain
-https://geolite.090124.xyz/GeoLite2-City.tar.gz
+https://ffha.github.io/geolite-mirror/GeoLite2-City.tar.gz
 ```
 
 ``` plain
-https://geolite.090124.xyz/City.mmdb
+https://ffha.github.io/geolite-mirror/City.mmdb
 ```
 ``` plain
-https://geolite.090124.xyz/GeoLite2-ASN.tar.gz
+https://ffha.github.io/geolite-mirror/GeoLite2-ASN.tar.gz
 ```
 ``` plain
-https://geolite.090124.xyz/ASN.mmdb
+https://ffha.github.io/geolite-mirror/ASN.mmdb
 ```
 
 
